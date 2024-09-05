@@ -50,5 +50,7 @@ public class TemperatureConverter {
         }
         
         scanner.close();
+        System.out.println("hello");
     }
+    
 }
